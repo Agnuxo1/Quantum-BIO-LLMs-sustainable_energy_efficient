@@ -1,0 +1,16 @@
+{
+  "name": "quantum-bio-llms",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Advanced Quantum-Biological Language Model System",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.31"
+  },
+  "author": "Francisco Angulo de Lafuente",
+  "license": "MIT"
+}
